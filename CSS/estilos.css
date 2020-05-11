@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://s2.glbimg.com/MFUIO12b-G0hxYRtd0XhdLZT9IU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/Y/C/Hc87A4R3yqSPtLHtKZIg/minecraft-village-pillage-atualizacao-pillagers.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: purple;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  
